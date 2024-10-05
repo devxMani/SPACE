@@ -2,15 +2,15 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Chirag Aggarwal",
-  initials: "CA",
+  name: "Mani",
+  initials: "MG",
   url: "https://chirag.is-a.dev/",
-  location: "Delhi NCR, India",
+  location: "Jalandhar, India",
   locationLink: "https://maps.app.goo.gl/Zbzok1mCik445h1C6",
   description:
     "Passionate, Caffienated and Sleep-deprived Software Engineer from India",
   summary:
-    "I am Chirag Aggarwal, a third-year Bachelor of Technology student from India, currently studying Computer Science Engineering. As a Fullstack Developer, I enjoy both frontend and backend development equally. Additionally, I have a passion for content writing and conducting research on various topics, particularly in the fields of Artificial Intelligence and Computer Vision.",
+    "I am Mani, a fourth-year Bachelor of Technology student from India, currently studying Computer Science Engineering. As a Fullstack Developer, I enjoy both frontend and backend development equally. Additionally, I have a passion for content writing and conducting research on various topics, particularly in the fields of Artificial Intelligence and Computer Vision.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
@@ -29,33 +29,33 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "chiragaggarwal5k@gmail.com",
-    tel: "+91 9667685415",
+    email: "chandramanigupta2003@gmail.com",
+    tel: "+91 9919669660",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/ChiragAgg5k",
+        url: "https://github.com/devxMani",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/chiragagg5k/",
+        url: "https://www.linkedin.com/in/mani-7b5058253/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://x.com/ChiragAgg5k",
+        url: "https://x.com/devxMani",
         icon: Icons.x,
 
         navbar: true,
       },
       email: {
         name: "Send Email",
-        url: "mailto:chiragaggarwal5k@gmail.com",
+        url: "mailto:chandramanigupta2003@gmail.com",
         icon: Icons.email,
 
         navbar: false,
@@ -91,87 +91,87 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Bennett University",
-      href: "https://bennett.edu.in/",
+      school: "Lovely Professional University",
+      href: "https://www.lpu.in/",
       degree:
-        "Bachelor's of Technology in Computer Science Engineering | 9.71 CGPA",
-      logoUrl: "/bennett.png",
+        "Bachelor's of Technology in Computer Science Engineering",
+      logoUrl: "/lpu.jpg",
       start: "2022",
-      end: "2026",
+      end: "2025",
     },
     {
-      school: "Bharti Public School",
-      href: "https://www.bps.edu.in/",
-      degree: "Senior Secondary (CBSE) | X - 91.2% | XII - 89.5%",
-      logoUrl: "/bharti.jpg",
-      start: "2010",
-      end: "2022",
+      school: "Kendriya Vidyalaya",
+      href: "https://no1shahjahanpur.kvs.ac.in/",
+      degree: "Senior Secondary (CBSE)",
+      logoUrl: "/kv.png",
+      start: "2009",
+      end: "2019",
     },
   ],
   projects: [
     {
-      title: "Suraksha AI",
-      href: "https://github.com/ChiragAgg5k/suraksha-ai",
-      dates: "Feb 2024 - May 2024",
+      title: "Blog Website",
+      href: "https://github.com/devxMani/BLOG",
+      dates: "Jul 2024 - Aug 2024",
       active: true,
       description:
-        "An AI powered home security system providing accurate anomaly and threat detection along with real-time alerts and notifications.",
-      technologies: ["Python", "Flask", "Firebase", "Chart.js", "YOLOv8"],
+        "A Blog webiste that lets you write blogs and publish them, you can also read others blogs.",
+      technologies: ["Next.js", "Typescript", "MongoDB", "TailwindCSS"],
       links: [
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/suraksha-ai",
+          href: "https://github.com/devxMani/BLOG",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/suraksha-ai.png",
+      image: "/blogg.png",
     },
     {
-      title: "Asclepius",
-      href: "https://github.com/ChiragAgg5k/asclepius",
-      dates: "Dec 2022 - Jan 2023",
+      title: "GSAP projects",
+      href: "https://github.com/devxMani/GSAP_projects",
+      dates: "Jun 2024 - Jul 2024",
       active: true,
       description:
-        "A desktop application developed in Python and Custom Tkinter to view and request medicines from the Wellness center, check medicine availability, and order medicines directly.",
-      technologies: ["Python", "Tkinter", "SQLite"],
+        "I have created 5 projects using GSAP library for learning animations and hovers animations.",
+      technologies: ["GSAP","Framer motion","HTML","CSS"],
       links: [
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/asclepius",
+          href: "https://github.com/devxMani/GSAP_projects",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/asclepius.png",
+      image: "/gsap.png",
     },
     {
-      title: "BU News",
-      href: "https://github.com/ChiragAgg5k/bu-news-android",
-      dates: "April 2023 - March 2024",
+      title: "Stock Predictor",
+      href: "https://github.com/devxMani/StockMarketPrediction",
+      dates: "Nov 2023 - Dec 2023",
       active: true,
       description:
-        "A news sharing platform targetting university students in particular, aiming to reduce spread of misinformation.",
-      technologies: ["Java", "XML", "Firebase", "Android Studio"],
+        "A stock market predictor that analyses the current market and gives you future profitable stocks using ML libraries.",
+      technologies: ["Python", "Keras", "LSTMs", "Matplotlib"],
       links: [
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/bu-news-android",
+          href: "https://github.com/devxMani/StockMarketPrediction",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/bu-news.png",
+      image: "/stock.png",
     },
     {
-      title: "Askit",
-      href: "https://www.askit.study/",
-      dates: "April 2023 - September 2023",
+      title: "Crypto-Tracker",
+      href: "https://github.com/devxMani/CryptoTracker",
+      dates: "May 2024 - July 2024",
       active: true,
       description:
-        "A community-driven Q&A platform that leverages AI to expand, enhance, and get more in-depth answers to various questions from a diverse range of categories.",
-      technologies: ["Next.js", "Typescript", "MongoDB"],
+        "A Crypto tracker application which gives you realtime data in line chart format of cryptos using Coin Gecko API.",
+      technologies: ["React", "Typescript", "Coin Gecko API"],
       links: [
         {
           type: "Website",
-          href: "https://www.askit.study/",
+          href: "https://github.com/devxMani/CryptoTracker",
           icon: <Icons.globe className="size-3" />,
         },
         {
@@ -180,56 +180,56 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/askit.png",
+      image: "/crypto.png",
     },
   ],
   positions: [
     {
-      title: "Content Writer",
-      dates: "July 2024 - Present",
-      location: "GeeksForGeeks",
+      title: "GSSOC'24 EXT Campus Ambassador",
+      dates: "Sep 2024 - Present",
+      location: "GirlScript Summer of Code",
       description:
-        "I like to write technical articles for GeeksForGeeks in my past time. Let's me be updated with various kinds of technologies.",
-      image: "/gfg.png",
+        "I have selected as a Campus Ambassador for GirlScript Summer of Code 2024 and I am responsible for promoting the program and helping students with their submissions and queries.",
+      image: "/gssoc.jpg",
       links: [
         {
           title: "Contributions",
-          href: "https://www.geeksforgeeks.org/user/chiragaggarwal5k/contributions/",
+          href: "https://gssoc.girlscript.tech/",
         },
       ],
     },
     {
-      title: "Summer Immersion Participant",
-      dates: "July 2024",
-      location: "FPT University, Da Nang, Vietnam",
+      title: "Hacktoberfest'24 Participant",
+      dates: "Oct 2024 - Dec 2024",
+      location: "Hacktoberfest",
       description:
-        "Participated in a 10-day fully funded Summer Immersion Programme in Vietnam hosted by FPT University, providing rich insights into Vietnamese culture from a entrepreneurship and technological point of view.",
+        "Participated in 2 Month long open source contribution competition and successfully made 40+ PRs .",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_fpt_university.jpg",
+        "hacktoberfestlogo.png",
       links: [
         {
           title: "Website",
-          href: "https://international.fpt.edu.vn/",
+          href: "https://hacktoberfest.com/",
         },
         {
           title: "Photos",
-          href: "https://www.linkedin.com/posts/bennett-university_bennettuniversity-globalexposure-entrepreneurshipjourney-ugcPost-7232006796473683968-tKMa?utm_source=share&utm_medium=member_desktop",
+          href: "https://hacktoberfest.com/profile/",
         },
       ],
     },
     {
-      title: "Technical CO-Head",
-      dates: "August 2023 - May 2024",
-      location: "Computer Society of India, Bennett University",
+      title: "GSSOC'24 Extended Contributor",
+      dates: "Oct 2024 - Nov 2024",
+      location: "Contributor",
       description:
-        "As the technical co-head of the CSI chapter of my university, I was responsible for organizing various events, workshops, and hackathons. I also mentored and guided students in their technical journey.",
+        "I am a contributor in GirlScript Summer of Code 2024 and I have contributed to over 20+ open-source projects till now and made over 50+ PRs till now in this program ",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnicMMBfXdQJrZy9RvzmnhzvVw1bgLTs_qA&s",
+        "gssoc.jpg",
       links: [
-        { title: "Website", href: "https://csiindia.org/" },
+        { title: "Website", href: "https://gssoc.girlscript.tech/" },
         {
           title: "LinkedIn",
-          href: "https://www.linkedin.com/company/csi-india/",
+          href: "https://www.linkedin.com/company/girlscriptsoc/",
         },
         {
           title: "Welcome Letter",
