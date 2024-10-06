@@ -6,7 +6,7 @@ export const DATA = {
   initials: "MG",
   url: "https://chirag.is-a.dev/",
   location: "Jalandhar, India",
-  locationLink: "https://maps.app.goo.gl/Zbzok1mCik445h1C6",
+  locationLink: "https://maps.app.goo.gl/CtfbsK9VRJQuExfD8",
   description:
     "Passionate, Caffienated and Sleep-deprived Software Engineer from India",
   summary:
@@ -17,12 +17,12 @@ export const DATA = {
     "Next.js",
     "Typescript",
     "Node.js",
-    "Python",
-    "Postgres",
+    "Express",
+    "GSAP",
     "Docker",
     "Kubernetes",
-    "Java",
-    "C++",
+    "MongoDB",
+    "TailwindCSS",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -74,7 +74,7 @@ export const DATA = {
       start: "September 2024",
       end: "November 2024",
       description:
-        "Developed and maintained core backend systems for mobile and web applications using Node.js and Express.js, improving overall application performance by 30% | Designed and implemented a real-time chat application backend utilizing WebSockets and FastAPI (Python), resulting in a 50% increase in user engagement",
+        "Developed and maintained core frontend and backend systems for mobile and web applications using React, Javascript, Typescript improving overall application performance | Designed and implemented a real-time designs and animations to application backend utilizing Express and MongoDB, resulting in increase in user engagement",
     },
     {
       company: "CodSoft",
@@ -176,7 +176,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/askit",
+          href: "https://github.com/devxMani/CryptoTracker",
           icon: <Icons.github className="size-3" />,
         },
       ],

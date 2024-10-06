@@ -10,18 +10,18 @@ export const metadata = {
 const posts = [
   {
     title: "Mastering npm: A Comprehensive Guide to Package Management",
-    thumbnail: "/blog/npm-guide.png",
+    thumbnail: "/blog/hashnode.png",
     icon: "📦",
-    href: "https://dev.to/chiragagg5k/mastering-npm-a-comprehensive-guide-to-package-management-3h0m",
+    href: "https://hashnode.com/@devxMani",
     publishedAt: "2024-07-05",
-    tags: ["npm", "javascript", "guide"],
+    tags: ["Next", "javascript", "guide"],
     description:
       "A comprehensive guide to npm, covering everything from installation to publishing packages.",
     links: [
       {
         icon: "💻",
-        type: " dev.to",
-        href: "https://dev.to/chiragagg5k/mastering-npm-a-comprehensive-guide-to-package-management-3h0m",
+        type: " hashnode",
+        href: "https://hashnode.com/@devxMani",
       },
     ],
   },
