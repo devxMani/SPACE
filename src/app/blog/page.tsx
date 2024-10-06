@@ -9,14 +9,14 @@ export const metadata = {
 
 const posts = [
   {
-    title: "Mastering npm: A Comprehensive Guide to Package Management",
+    title: "Mastering Next: A Comprehensive Guide to Next JS",
     thumbnail: "/blog/hashnode.png",
     icon: "📦",
     href: "https://hashnode.com/@devxMani",
     publishedAt: "2024-07-05",
-    tags: ["Next", "javascript", "guide"],
+    tags: ["Next", "Javascript", "Guide"],
     description:
-      "A comprehensive guide to npm, covering everything from installation to publishing packages.",
+      "A comprehensive guide to Next, covering everything from installation to publishing packages.",
     links: [
       {
         icon: "💻",
@@ -26,70 +26,70 @@ const posts = [
     ],
   },
   {
-    title: "Conditional Dependency Management Using Maven Profiles",
-    thumbnail: "/blog/conditional-maven.png",
+    title: "JavaScript — Scope and Scope Chaining",
+    thumbnail: "/blog/medium.png",
     icon: "📦",
-    href: "https://www.geeksforgeeks.org/conditional-dependency-management-using-maven-profiles/?itm_source=auth&itm_medium=contributions&itm_campaign=articles",
+    href: "https://javascript.plainenglish.io/javascript-scope-and-scope-chaining-e201572d6d7f",
     publishedAt: "2024-08-06",
-    tags: ["maven", "java", "guide"],
+    tags: ["Javascript", "Chaining", "guide"],
     description:
-      "Introduction to Maven profiles and how to use them to conditionally manage dependencies in a Maven project.",
+      "Introduction to Javascript scopes and how to use them to conditionally manage scope chaining in Javascript project.",
     links: [
       {
         icon: "🟩",
-        type: " geeksforgeeks",
-        href: "https://www.geeksforgeeks.org/conditional-dependency-management-using-maven-profiles/?itm_source=auth&itm_medium=contributions&itm_campaign=articles",
+        type: " medium",
+        href: "https://javascript.plainenglish.io/javascript-scope-and-scope-chaining-e201572d6d7f",
       },
     ],
   },
   {
     title: "Neon T3 Starter Kit: Supercharging Web Development with Serverless Postgres",
-    thumbnail: "/blog/neon-starter.png",
+    thumbnail: "/blog/substack.png",
     icon: "💻",
-    href: "https://dev.to/chiragagg5k/neon-t3-starter-kit-supercharging-web-development-with-serverless-postgres-13fg",
+    href: "https://substack.com/home/category/4",
     publishedAt: "2024-08-28",
-    tags: ["neon", "typescript", "guide"],
+    tags: ["React", "typescript", "guide"],
     description:
-      "A starter kit that uses Neon database and T3 stack to build a full-stack web application with TypeScript.",
+      "A starter kit that uses React to build a full-stack web application with TypeScript.",
     links: [
       {
         icon: "💻",
-        type: " dev.to",
-        href: "https://dev.to/chiragagg5k/neon-t3-starter-kit-supercharging-web-development-with-serverless-postgres-13fg",
+        type: " substack",
+        href: "https://substack.com/@devxmani",
       },
     ],
   },
   {
-    title: "From Kubernetes Chaos to Calm: A Cyclops Adventure",
-    thumbnail: "/blog/cyclops.png",
+    title: "ES6 Features Every Front-End Developer Should Know",
+    thumbnail: "/blog/ES6.png",
     icon: "💻",
-    href: "https://dev.to/chiragagg5k/from-kubernetes-chaos-to-calm-a-cyclops-adventure-1b5m",
+    href: "https://medium.com/javascript-in-plain-english/8-es6-features-every-front-end-developer-should-know-5207f807010b",
     publishedAt: "2024-07-30",
-    tags: ["kubernetes", "cyclops", "guide"],
+    tags: ["Javascript", "ES 6", "guide"],
     description:
-      "A guide to understanding and managing Kubernetes Chaos, and how to use it to improve the reliability of your applications.",
+      "New ES 6 features every Front-end developer show know of .",
     links: [
       {
         icon: "💻",
-        type: " dev.to",
-        href: "https://dev.to/chiragagg5k/from-kubernetes-chaos-to-calm-a-cyclops-adventure-1b5m",
+        type: " medium",
+        href: "https://medium.com/javascript-in-plain-english/8-es6-features-every-front-end-developer-should-know-5207f807010b",
       },
     ],
   },
   {
     title: "My Journey in Authorization with OPAL",
-    thumbnail: "/blog/opal.png",
+    thumbnail: "/blog/NEXT.png",
     icon: "💻",
-    href: "https://dev.to/chiragagg5k/my-journey-in-authorization-with-opal-1072",
+    href: "https://medium.com/gitconnected/mastering-dynamic-sitemaps-in-next-js-with-apis-a-step-by-step-guide-a41a09c2f5ca",
     publishedAt: "2024-06-23",
-    tags: ["opal", "authorization", "guide"],
+    tags: ["Next", "Sitemaps", "guide"],
     description:
-      "Understanding the basics of authorization and how to implement it using OPAL, a powerful authorization library.",
+      "Understanding the basics of Mastering the Sitemaps in NextJs.",
     links: [
       {
         icon: "💻",
-        type: " dev.to",
-        href: "https://dev.to/chiragagg5k/my-journey-in-authorization-with-opal-1072",
+        type: " medium",
+        href: "https://medium.com/gitconnected/mastering-dynamic-sitemaps-in-next-js-with-apis-a-step-by-step-guide-a41a09c2f5ca",
       },
     ],
   },
