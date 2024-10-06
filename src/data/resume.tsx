@@ -65,28 +65,28 @@ export const DATA = {
 
   work: [
     {
-      company: "Skillarena",
-      href: "https://skillarena.in/",
+      company: "GirlScript Summer of Code Ext 24",
+      href: "https://gssoc.girlscript.tech/",
       badges: [],
       location: "Remote",
-      title: "Backend Developer",
-      logoUrl: "/skillarena.png",
-      start: "July 2024",
-      end: "September 2024",
+      title: "Full Stack Developer",
+      logoUrl: "/gssoc.jpg",
+      start: "September 2024",
+      end: "November 2024",
       description:
         "Developed and maintained core backend systems for mobile and web applications using Node.js and Express.js, improving overall application performance by 30% | Designed and implemented a real-time chat application backend utilizing WebSockets and FastAPI (Python), resulting in a 50% increase in user engagement",
     },
     {
-      company: "Clearmind AI",
+      company: "CodSoft",
       badges: [],
-      href: "https://www.clearmind.plus/",
+      href: "https://www.codsoft.in/",
       location: "Remote",
-      title: "Next.js Developer",
-      logoUrl: "/clearmind.png",
-      start: "October 2023",
-      end: "December 2023",
+      title: "Frontend Developer",
+      logoUrl: "/codsoft.png",
+      start: "July 2024",
+      end: "August 2024",
       description:
-        "Analyzed and implemented 75% user feedback suggestions, leading to a 15% increase in user satisfaction ratings and a 20% increase in page visits. | Integrated Stripe payment gateway, increasing online transactions by 30% and reducing checkout abandonment by 25%.",
+        "In this internship company given me 5 tasks and projects of frontend technologies in a duration of 4 weeks long internship, this internship created a strong hold on my development skills and knowledge of frontend technologies.",
     },
   ],
   education: [
